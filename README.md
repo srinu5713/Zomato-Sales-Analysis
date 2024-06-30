@@ -22,6 +22,13 @@ This repository contains a detailed Power BI analysis report focused on Zomato's
 
 
 ## File Structure
+```plaintext
+.
+├── Data                        # Directory for storing raw data files
+├── LICENSE                     # License file
+├── README.md                   # This readme file
+└── Zomato_Sales.pbix           # Power BI report file
+```
 
 ## Importance of the Analysis
 
