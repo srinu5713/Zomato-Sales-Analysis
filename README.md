@@ -18,3 +18,15 @@ This repository contains a detailed Power BI analysis report focused on Zomato's
 2. **Data Source**:
    - The report uses data from various csv files, which should be placed in the `data` directory.
    - Ensure that the data file is correctly loaded into Power BI by checking the data connections.
+
+
+
+## File Structure
+
+## Importance of the Analysis
+
+This Power BI report provides valuable insights into Zomato's business operations, helping stakeholders make informed decisions. By understanding sales trends, customer behavior, and food preferences, Zomato can enhance its marketing strategies, improve customer satisfaction, and optimize its menu offerings.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
